@@ -8,10 +8,10 @@ import './aboutme.css'
 const Aboutme = props => {
   return (
     <>
-      <h1>Hi there, I'm Sid</h1>
-      <p>I'm a second-year undergraduate student from New York University.</p>
+      <h1>Kevin Dong</h1>
       <p>
-        I chose to major in computer science because it affords me the opportunity to explore my passion for solving problems with my hand. I love to engage in this end-to-end experience which is fulfilling to me because I get to not only brings up an idea but also bring it to fruition.
+        Hi, my name is Kevin. I am an upcoming sophomore at Winston Churchill High School in Potomac, Maryland. 
+        I have a passion for contest math, but I'm branching out and exploring new topics, including computer science. 
       </p>
     </>
   )
