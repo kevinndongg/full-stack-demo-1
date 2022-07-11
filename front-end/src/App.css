@@ -33,6 +33,7 @@ html {
 .App-main {
   background-color: white;
   padding: 20px;
+  min-height: 450px;
 }
 .App-link {
   color: #61dafb;

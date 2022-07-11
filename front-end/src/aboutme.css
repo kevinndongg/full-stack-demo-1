@@ -1,5 +1,11 @@
 img{
-    width: 100px;
+    float: right;
+    margin: 20px;
+    width: 200px;
+}
+
+h1{
+    text-align: center;
 }
 
 p{

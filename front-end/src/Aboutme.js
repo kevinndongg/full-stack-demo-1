@@ -8,13 +8,15 @@ import './Aboutme.css'
 const Aboutme = props => {
   return (
     <>
+      <img src="kevinchurch.jpg" alt="Kevin Dong" align="right"></img>
       <h1>Kevin Dong</h1>
+      
       <p>
         Hi, my name is Kevin. I am an upcoming sophomore at Winston Churchill High School in Potomac, Maryland. 
         I have a passion for contest math, but I'm branching out and exploring new topics, including computer science. 
-
+        I enjoy the thrill of solving a complex problem with peers. I'm excited to be a part of this amazing team to create a functional Kyros app!
       </p>
-      <img src="kevinchurch.jpg"></img>
+      
     </>
   )
 }
