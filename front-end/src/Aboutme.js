@@ -1,4 +1,4 @@
-import './aboutme.css'
+import './Aboutme.css'
 
 /**
  * A React component that represents the Home page of the app.
@@ -7,6 +7,7 @@ import './aboutme.css'
  */
 const Aboutme = props => {
   return (
+    <>
       <h1>Kevin Dong</h1>
       <p>
         Hi, my name is Kevin. I am an upcoming sophomore at Winston Churchill High School in Potomac, Maryland. 
@@ -14,6 +15,7 @@ const Aboutme = props => {
 
       </p>
       <img src="kevinchurch.jpg"></img>
+    </>
   )
 }
 
