@@ -7,13 +7,13 @@ import './aboutme.css'
  */
 const Aboutme = props => {
   return (
+    <>
       <h1>Kevin Dong</h1>
       <p>
         Hi, my name is Kevin. I am an upcoming sophomore at Winston Churchill High School in Potomac, Maryland. 
         I have a passion for contest math, but I'm branching out and exploring new topics, including computer science. 
-
       </p>
-      <img src="kevinchurch.jpg"></img>
+    </>
   )
 }
 
